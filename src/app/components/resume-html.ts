@@ -359,7 +359,7 @@ export const resumeHTML = `<!DOCTYPE html>
       <span>|</span>
       <a href="https://www.linkedin.com/in/kenreigh/" target="_blank">LinkedIn</a>
       <span>|</span>
-      <a href="https://seekenreigh.figma.site/" target="_blank">Portfolio</a>
+      <a href="https://www.uxapex.com/portfolioa8" target="_blank">Portfolio</a>
     </div>
   </header>
 
